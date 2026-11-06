@@ -1,0 +1,17 @@
+BARICHARA MÁGICA — PROYECTO RECONSTRUIDO
+
+Contenido:
+- index.html: sitio web de una sola página, adaptable a celulares y computadores.
+- El nombre JOHAN URIEL LOPEZ MALDONADO aparece en el pie de página.
+
+Cómo publicarlo en Netlify:
+1. Descomprime este archivo ZIP.
+2. Entra a https://app.netlify.com/drop
+3. Arrastra la carpeta "barichara_magica_reconstruida" (o la carpeta que contiene index.html) al área de carga.
+4. Netlify publicará el sitio y te dará un enlace nuevo.
+
+Importante:
+- Esta es una reconstrucción basada en el contenido que se pudo consultar del enlace original; no es una copia exacta de sus archivos internos.
+- El enlace original no se modifica. Para reemplazarlo se necesita acceso a la cuenta o al proyecto original de Netlify.
+- Las fotografías se cargan desde sus sitios de origen, por lo que requieren conexión a Internet.
+- El formulario abre WhatsApp con un mensaje preparado, pero no tiene un número de empresa configurado porque el sitio público no mostraba uno.
